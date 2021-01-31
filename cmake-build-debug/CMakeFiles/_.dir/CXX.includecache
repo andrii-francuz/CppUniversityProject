@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Baron/Desktop/MyProject/Characters.h
+
+C:/Users/Baron/Desktop/MyProject/Mage.cpp
+iostream
+-
+Characters.h
+C:/Users/Baron/Desktop/MyProject/Characters.h
+
+C:/Users/Baron/Desktop/MyProject/Thief.cpp
+iostream
+-
+Characters.h
+C:/Users/Baron/Desktop/MyProject/Characters.h
+
+C:/Users/Baron/Desktop/MyProject/Warrior.cpp
+iostream
+-
+Characters.h
+C:/Users/Baron/Desktop/MyProject/Characters.h
+
+C:/Users/Baron/Desktop/MyProject/main.cpp
+menu.cpp
+C:/Users/Baron/Desktop/MyProject/menu.cpp
+
+C:/Users/Baron/Desktop/MyProject/menu.cpp
+iostream
+-
+Warrior.cpp
+C:/Users/Baron/Desktop/MyProject/Warrior.cpp
+Mage.cpp
+C:/Users/Baron/Desktop/MyProject/Mage.cpp
+Thief.cpp
+C:/Users/Baron/Desktop/MyProject/Thief.cpp
+
